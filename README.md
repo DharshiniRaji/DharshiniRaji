@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<h3 align="center">✨ Girl Working with Laptop Animation ✨</h3>
+
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Girl working with laptop animation" width="300">
 </div>
