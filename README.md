@@ -29,28 +29,20 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/prabha06" target="blank">
+  <a href="https://www.linkedin.com/in/dharshini-raji-54165a245/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/mprabha" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.leetcode.com/user5402eu" target="blank">
+  <a href="https://leetcode.com/u/dharshini015/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshini015&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
   <img src="https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400">
 </div>
 
