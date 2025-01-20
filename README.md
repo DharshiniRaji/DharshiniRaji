@@ -1,10 +1,11 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://drive.google.com/file/d/1k1Sx8WdzR09spwHzQWtJ-ED9ToZOhSbu/view?usp=sharing)"  />
 </div>
 
 ###
 
-<a href="https://linkedin.com/in/prabha06" target="blank">
+<p align="center">
+  <a href="https://linkedin.com/in/prabha06" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/mprabha" target="blank">
@@ -13,7 +14,7 @@
   <a href="https://www.leetcode.com/user5402eu" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-
+</p>
 ###
 
 <div align="center">
