@@ -50,9 +50,6 @@
   </a> 
 </p>
 
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1k1Sx8WdzR09spwHzQWtJ-ED9ToZOhSbu/view?usp=sharing" />
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharshini-raji-54165a245/" target="blank">
